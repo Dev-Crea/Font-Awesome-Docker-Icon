@@ -5,7 +5,13 @@
     "vaillant.jeremy@dev-crea.com"
   ],
   "description": "Icon docker",
-  "main": "",
+  "main": [
+    "./fontcustom/fontcustom.css",
+    "./fontcustom/fontcustom_cb066050d5b786186aa0e7f121427d8b.eot",
+    "./fontcustom/fontcustom_cb066050d5b786186aa0e7f121427d8b.svg",
+    "./fontcustom/fontcustom_cb066050d5b786186aa0e7f121427d8b.ttf",
+    "./fontcustom/fontcustom_cb066050d5b786186aa0e7f121427d8b.woff"
+  ],
   "moduleType": [
     "globals"
   ],
